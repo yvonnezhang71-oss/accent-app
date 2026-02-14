@@ -1,3 +1,4 @@
+[
   {"category": "元音 (Vowels)", "symbol": "i:", "words": ["sheep", "seat", "eagle"], "name": "长元音", "desc": "嘴角向两侧用力拉开，像微笑一样，舌尖抵下齿，发出长长的'一'音。"},
   {"category": "元音 (Vowels)", "symbol": "ɪ", "words": ["ship", "bit", "city"], "name": "短元音", "desc": "嘴唇微微张开，舌尖抵下齿，发音短促有力，像短促的'一'。"},
   {"category": "元音 (Vowels)", "symbol": "e", "words": ["bed", "head", "many"], "name": "短元音", "desc": "嘴唇向两侧微开，上下齿间可容纳一指，舌尖抵下齿。"},
@@ -46,3 +47,4 @@
   {"category": "辅音 (Consonants)", "symbol": "l", "words": ["love", "leg", "ball"], "name": "舌侧音", "desc": "舌尖抵住上齿龈，气流从舌头两侧流出。"},
   {"category": "辅音 (Consonants)", "symbol": "w", "words": ["we", "wet", "window"], "name": "半元音", "desc": "双唇收圆向前突出，声带振动，像'我'的起始音。"},
   {"category": "辅音 (Consonants)", "symbol": "j", "words": ["yes", "you", "yellow"], "name": "半元音", "desc": "舌前部抬向硬腭，声带振动，像'耶'的起始音。"}
+]
